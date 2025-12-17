@@ -147,3 +147,4 @@ nvim -l tests/minit.lua
 Tests will run silently and only report failures. Exit code 0 indicates all tests passed, exit code 1 indicates failures.
 
 [neovim]: https://github.com/neovim/neovim
+
